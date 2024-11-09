@@ -20,10 +20,10 @@ This Python tool analyzes stock data using **Yahoo Finance API**, **Pandas**, an
 - Requests
 
 ## How to Run
-1. Clone the repository:https://github.com/pranavraok/stock-analysis-tool.git
-2. Navigate to the project directory:
-3. Install dependencies:
-4. Run the script:
+1. Clone the repository :https://github.com/pranavraok/stock-analysis-tool.git
+2. Navigate to the project directory :
+3. Install dependencies :
+4. Run the script :
 
 ## License
 This project is licensed under the MIT License.
